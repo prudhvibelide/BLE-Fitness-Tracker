@@ -2,8 +2,7 @@
 Bluetooth based Smart Fitness Tracker using EFR32BG24 Chipset
 
 # Developers
-Prudhvi Raj Belide
-Harshal Wadhwa
+Prudhvi Raj Belide, Harshal Wadhwa
 
 ## Overview
 This project is a bare-metal firmware bring-up for a custom wearable-style fitness tracker built around a Silicon Labs EFR32BG24. The firmware initializes board clocks and GPIO, communicates with multiple peripherals over I2C (IMU, temperature sensor, OLED), and exposes runtime telemetry over UART for validation and debugging. The goal is to prove a full embedded data path from sensor configuration and sampling to user-visible output on the display.

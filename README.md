@@ -1,6 +1,10 @@
 # BLE-Fitness-Tracker
 Bluetooth based Smart Fitness Tracker using EFR32BG24 Chipset
 
+
+![1000065351](https://github.com/user-attachments/assets/0300d2ca-dba3-4b7b-b3e8-74c02dd5d367)
+
+
 # Developers
 Prudhvi Raj Belide, Harshal Wadhwa
 
